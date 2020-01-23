@@ -1,0 +1,11 @@
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\bin\release\netcoreapp3.1\simpleUDPClient.exe
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\bin\release\netcoreapp3.1\simpleUDPClient.deps.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\bin\release\netcoreapp3.1\simpleUDPClient.runtimeconfig.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\bin\release\netcoreapp3.1\simpleUDPClient.runtimeconfig.dev.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\bin\release\netcoreapp3.1\simpleUDPClient.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\bin\release\netcoreapp3.1\simpleUDPClient.pdb
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\obj\release\netcoreapp3.1\simpleUDPClient.csprojAssemblyReference.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\obj\release\netcoreapp3.1\simpleUDPClient.AssemblyInfoInputs.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\obj\release\netcoreapp3.1\simpleUDPClient.AssemblyInfo.cs
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\obj\release\netcoreapp3.1\simpleUDPClient.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPClient\obj\release\netcoreapp3.1\simpleUDPClient.pdb

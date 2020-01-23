@@ -1,0 +1,11 @@
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\bin\Debug\netcoreapp3.1\simpleTCPClient.exe
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\bin\Debug\netcoreapp3.1\simpleTCPClient.deps.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\bin\Debug\netcoreapp3.1\simpleTCPClient.runtimeconfig.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\bin\Debug\netcoreapp3.1\simpleTCPClient.runtimeconfig.dev.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\bin\Debug\netcoreapp3.1\simpleTCPClient.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\bin\Debug\netcoreapp3.1\simpleTCPClient.pdb
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\obj\Debug\netcoreapp3.1\simpleTCPClient.csprojAssemblyReference.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\obj\Debug\netcoreapp3.1\simpleTCPClient.AssemblyInfoInputs.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\obj\Debug\netcoreapp3.1\simpleTCPClient.AssemblyInfo.cs
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\obj\Debug\netcoreapp3.1\simpleTCPClient.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleTCPClient\obj\Debug\netcoreapp3.1\simpleTCPClient.pdb

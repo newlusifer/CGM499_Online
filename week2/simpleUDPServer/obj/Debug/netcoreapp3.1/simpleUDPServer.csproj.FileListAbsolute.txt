@@ -1,0 +1,11 @@
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\bin\Debug\netcoreapp3.1\simpleUDPServer.exe
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\bin\Debug\netcoreapp3.1\simpleUDPServer.deps.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\bin\Debug\netcoreapp3.1\simpleUDPServer.runtimeconfig.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\bin\Debug\netcoreapp3.1\simpleUDPServer.runtimeconfig.dev.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\bin\Debug\netcoreapp3.1\simpleUDPServer.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\bin\Debug\netcoreapp3.1\simpleUDPServer.pdb
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\obj\Debug\netcoreapp3.1\simpleUDPServer.csprojAssemblyReference.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\obj\Debug\netcoreapp3.1\simpleUDPServer.AssemblyInfoInputs.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\obj\Debug\netcoreapp3.1\simpleUDPServer.AssemblyInfo.cs
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\obj\Debug\netcoreapp3.1\simpleUDPServer.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\simpleUDPServer\obj\Debug\netcoreapp3.1\simpleUDPServer.pdb

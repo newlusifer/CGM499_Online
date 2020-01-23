@@ -1,0 +1,11 @@
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+D:\CGM499_Online_5808575\CGM499_Online\week2\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
