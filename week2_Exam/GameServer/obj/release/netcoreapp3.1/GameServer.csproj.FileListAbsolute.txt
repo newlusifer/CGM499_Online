@@ -1,0 +1,11 @@
+D:\งาน\CGM499_Online\week2_Exam\GameServer\bin\release\netcoreapp3.1\GameServer.exe
+D:\งาน\CGM499_Online\week2_Exam\GameServer\bin\release\netcoreapp3.1\GameServer.deps.json
+D:\งาน\CGM499_Online\week2_Exam\GameServer\bin\release\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\งาน\CGM499_Online\week2_Exam\GameServer\bin\release\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\งาน\CGM499_Online\week2_Exam\GameServer\bin\release\netcoreapp3.1\GameServer.dll
+D:\งาน\CGM499_Online\week2_Exam\GameServer\bin\release\netcoreapp3.1\GameServer.pdb
+D:\งาน\CGM499_Online\week2_Exam\GameServer\obj\release\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\งาน\CGM499_Online\week2_Exam\GameServer\obj\release\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\งาน\CGM499_Online\week2_Exam\GameServer\obj\release\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\งาน\CGM499_Online\week2_Exam\GameServer\obj\release\netcoreapp3.1\GameServer.dll
+D:\งาน\CGM499_Online\week2_Exam\GameServer\obj\release\netcoreapp3.1\GameServer.pdb
